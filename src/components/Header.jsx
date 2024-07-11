@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 
 const Header = ({
-  title = "FeedBack UI",
+  title = "GetFeedback",
   bgColor = "rgba(0,0,0,0.4)",
   textColor = "#ff6a95",
 }) => {
